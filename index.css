@@ -1,0 +1,9 @@
+#div1 {
+    border: 2px solid black;
+    color: white;
+    background-color: red;
+    height: 100px;
+    width: 150px;
+    transition: all 6 steps(6) 0.2s;
+    background-color: yellow;
+}
