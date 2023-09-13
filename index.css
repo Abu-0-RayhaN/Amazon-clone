@@ -190,10 +190,9 @@ span {
 
 .box {
     width: 23%;
-    height: 400px;
+    height: 390px;
     background-color: white;
     padding: 10px 10px;
-    border-radius: 5px;
     margin-top: 15px;
 }
 
@@ -214,8 +213,7 @@ span {
 
 /* footer section  */
 footer {
-    margin-top: 15px;
-    border-bottom: 0.5px solid #a39c9c;
+    border-bottom: 0.5px solid #364457;
 }
 
 .footer-panel {
@@ -279,12 +277,12 @@ footer {
 }
 
 .user-options div {
-    border: 0.1px solid rgb(165, 161, 161);
+    border: 0.1px solid #5f6c7e;
     border-radius: 5px;
     color: rgb(218, 216, 216);
-    padding: 6px;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
     margin-bottom: 10px;
     font-size: 0.85rem;
     margin-left: 15px;
